@@ -1,0 +1,20 @@
+Microsoft Windows [Version 10.0.22000.493]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\LENOVO>cd ..
+
+C:\Users>cd ..
+
+C:\>cd xampp
+
+C:\xampp>cd htdocs
+
+C:\xampp\htdocs>cd wp2
+
+C:\xampp\htdocs\wp2>php tugas1.php
+Halo! Perkenalkan Saya,
+Nama     : Laeli Nurafiah
+Nim      : 20090104
+Kelas    : 4B
+
+C:\xampp\htdocs\wp2>
