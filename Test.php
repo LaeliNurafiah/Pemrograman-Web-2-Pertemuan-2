@@ -16,7 +16,7 @@
   #echo $output;
 
   #shell_exec("touch index.php");
-  #shell_exec("echo '<h1>Hello World</h1>' > index.php");
+  #shell_exec("echo '<h1>Selamat Datang</h1>' > index.php");
   print("Salam Kenal dari $nama\n");
   
 ?>
